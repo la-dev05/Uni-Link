@@ -1,4 +1,4 @@
-# Uni-Link
+# Uni-Link App Prototype
 App Idea by Lakshya G.
 
 The application enables universities to register and subsequently select a designated radius within the campus for student presence during preset attendance periods. At the set time, students receive notifications on their mobile devices. Upon clicking on the notification, students are prompted to authenticate themselves through fingerprint authentication (for Android users) or Face ID (for iPhone users). This secure authentication process verifies the students identity. Subsequently, the application utilizes the phone’s location services (GPS) and network to ascertain the students’ location within the campus. At the university administration end, a comprehensive list of students present is generated.
